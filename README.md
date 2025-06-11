@@ -1,3 +1,5 @@
+This repository gets you started using truffle to deploy on eth network, but I recommend trying hardhat which is in another repository that is being created and updated
+
 # CryptoZombie Solidity Beginner to Intermediate course code
 
 Working on a functional version of [CryptoZombies Solidity tutorial](https://cryptozombies.io/) first course and second course. Each lesson’s code corresponds 1-to-1 with the original CryptoZombies curriculum, with some adjustments for later solidity versions
