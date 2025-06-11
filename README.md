@@ -1,6 +1,6 @@
 # CryptoZombie Solidity Beginner to Intermediate course code
 
-fully-working version of [CryptoZombies Solidity tutorial](https://cryptozombies.io/) first course. Each lesson’s code corresponds 1-to-1 with the original CryptoZombies curriculum, with some adjustments for later solidity versions
+Working on a functional version of [CryptoZombies Solidity tutorial](https://cryptozombies.io/) first course and second course. Each lesson’s code corresponds 1-to-1 with the original CryptoZombies curriculum, with some adjustments for later solidity versions
 
 ## What’s inside?
 
