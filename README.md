@@ -38,10 +38,3 @@ cryptozombie-local/
 ```bash
 in progress of writing...
 ````
-
-## Contributing
-
-1. Fork → feature branch → PR.
-2. Keep commits atomic.
-3. Follow the [Conventional Commits](https://www.conventionalcommits.org/) style so releases stay clean.
-
